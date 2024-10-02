@@ -183,7 +183,7 @@ CORS_ALLOW_METHODS = [
 ]
 
 CORS_ALLOWED_ORIGINS = ["http://localhost:5173",  # React app
-    "https://your-production-site.com",]#pro
+    "https://my-repo-blog.vercel.app/",]#pro
 # Internationalization
 # https://docs.djangoproject.com/en/5.1/topics/i18n/
 
