@@ -182,7 +182,7 @@ CORS_ALLOW_METHODS = [
     'OPTIONS',
 ]
 
-CORS_ALLOWED_ORIGINS = [  "https://my-repo-blog.vercel.app/",]#pro
+CORS_ALLOWED_ORIGINS = [  "https://my-repo-blog.vercel.app",]#pro
 # Internationalization
 # https://docs.djangoproject.com/en/5.1/topics/i18n/
 
